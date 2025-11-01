@@ -1,0 +1,28 @@
+# **Object Detection App**
+
+A web app that detects objects in images, videos, and live camera using YOLOv8 AI model.
+
+## **Quick Start**
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## **Features**
+- 📷 Detect objects in images
+- 🎥 Process videos with AI
+- 📹 Real-time webcam detection
+- ⚡ Multiple model sizes (Fast → Accurate)
+- 🎚️ Adjustable confidence levels
+
+## **Tech Stack**
+- YOLOv8 (Object Detection)
+- Streamlit (Web Interface)
+- OpenCV (Image Processing)
+
+**Deploy with one click on Streamlit Cloud!** 🚀
+
+---
+
+*Just upload media and watch AI identify objects instantly!*
